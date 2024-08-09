@@ -1,4 +1,4 @@
-package com.backend.concerto;
+package com.concerto.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
